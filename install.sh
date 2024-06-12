@@ -185,7 +185,7 @@ else
 fi
 CHMOD=("/bin/chmod")
 MKDIR=("/bin/mkdir" "-p")
-HOMEBREW_BREW_DEFAULT_GIT_REMOTE="https://github.com/Homebrew/brew"
+HOMEBREW_BREW_DEFAULT_GIT_REMOTE="https://github.com/mrlovables/brew"
 HOMEBREW_CORE_DEFAULT_GIT_REMOTE="https://github.com/Homebrew/homebrew-core"
 
 # Use remote URLs of Homebrew repositories from environment if set.
